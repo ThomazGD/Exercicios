@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teste de Lógica e Programação – Soluções
 ## Sobre os exercícios
 
@@ -67,3 +68,7 @@ Se quiser conversar sobre os desafios, sugerir melhorias ou dar algum feedback, 
 Assim que subir este projeto, coloque aqui o link do seu repositório para facilitar o acesso e a avaliação:
 
 [ThomazGD/Exercicios](https://github.com/ThomazGD/Exercicios) 
+=======
+# Exercicios
+Exercícios Python
+>>>>>>> 98f730a95c67f0a5ebb8bf649feb1f264ba3103c
